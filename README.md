@@ -1,11 +1,3 @@
-Creating a `README.md` file that explains how to run your Python script on both Windows and Unix-like systems (like Linux or macOS) involves providing clear instructions in English. Below is a template you can use:
-
-### README.md
-
-#### Project Name
-
-Briefly introduce your project and its purpose.
-
 ---
 
 ### Installation
