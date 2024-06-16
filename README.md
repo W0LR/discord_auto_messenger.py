@@ -1,5 +1,3 @@
----
-
 ### Installation
 
 1. **Clone the repository**
@@ -74,5 +72,3 @@ Include information about the license under which your project is distributed (i
 Provide contact information or links to relevant resources (like GitHub profile, email, etc.) if users have questions or issues.
 
 ---
-
-This template provides a basic structure for your `README.md` file. Make sure to customize it with specific details about your project, such as its purpose, installation steps, usage instructions, and any additional information users may need to know.
