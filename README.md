@@ -1,17 +1,8 @@
-### Installation
+---
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
-   ```
+### discord_auto_messenger.py
 
-2. **Install dependencies**
-
-   Make sure you have Python installed on your system. Then install the required Python packages:
-   ```bash
-   pip install requests
-   ```
+This script sends random messages to a specific Discord channel using a predefined token.
 
 ---
 
@@ -21,54 +12,66 @@
 
 1. **Open Command Prompt (cmd)**
 
-2. **Navigate to the project directory**
-
+2. **Clone the repository**
    ```cmd
-   cd path\to\your-repository
+   git clone https://github.com/W0LR/discord_auto_messenger.py.git
+   cd discord_auto_messenger.py
    ```
 
-3. **Run the script**
+3. **Install dependencies**
+
+   Make sure you have Python installed on your system. Then install the required Python packages:
+   ```cmd
+   pip install requests
+   ```
+
+4. **Run the script**
 
    ```cmd
-   python your_script_name.py
+   python discord_auto_messenger.py
    ```
 
 #### Unix-like (Linux, macOS)
 
 1. **Open Terminal**
 
-2. **Navigate to the project directory**
-
+2. **Clone the repository**
    ```bash
-   cd /path/to/your-repository
+   git clone https://github.com/W0LR/discord_auto_messenger.py.git
+   cd discord_auto_messenger.py
    ```
 
-3. **Run the script**
+3. **Install dependencies**
+
+   Make sure you have Python installed on your system. Then install the required Python packages:
+   ```bash
+   pip install requests
+   ```
+
+4. **Run the script**
 
    ```bash
-   python3 your_script_name.py
+   python3 discord_auto_messenger.py
    ```
 
 ---
 
 ### Notes
 
-- Replace `your-username/your-repository` with your actual GitHub repository URL.
-- Replace `your_script_name.py` with the actual filename of your Python script.
-- Ensure Python and `requests` library are installed on your system before running the script.
-- Adjust the paths and commands according to your specific setup and file structure.
-- Include any additional instructions or dependencies specific to your project.
+- Replace `https://github.com/W0LR/discord_auto_messenger.py.git` with your actual GitHub repository URL.
+- Make sure to have a valid Discord token (`authorization` header in the script) before running the script.
+- Adjust the script (`discord_auto_messenger.py`) to customize the message content or adjust the interval between messages as needed.
 
 ---
 
 ### License
 
-Include information about the license under which your project is distributed (if applicable).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
 ### Contact
 
-Provide contact information or links to relevant resources (like GitHub profile, email, etc.) if users have questions or issues.
+For questions or suggestions, please feel free to contact the repository owner at [GitHub](https://github.com/W0LR).
 
 ---
